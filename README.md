@@ -16,6 +16,6 @@ Dự án này điều khiển hai LED (LED1 và LED2) thông qua một nút nh�
 - Nạp code lên board và điều khiển theo các chế độ đã nêu.
 
 ## Yêu Cầu Phần Cứng
-- ESP32 hoặc Arduino có hỗ trợ các chân GPIO để điều khiển LED.
+- ESP32.
 - 2 LED.
 - 1 nút nhấn.
